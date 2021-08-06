@@ -1,0 +1,22 @@
+F:\Bank management\BANK Application\BANK Application\bin\Debug\BANK Application.exe.config
+F:\Bank management\BANK Application\BANK Application\bin\Debug\BANK Application.exe
+F:\Bank management\BANK Application\BANK Application\bin\Debug\BANK Application.pdb
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK Application.csprojAssemblyReference.cache
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Form1.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Properties.Resources.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK Application.csproj.GenerateResource.cache
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK Application.exe
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK Application.pdb
+F:\Bank management\BANK Application\BANK Application\bin\Debug\MySql.Data.dll
+F:\Bank management\BANK Application\BANK Application\bin\Debug\Google.Protobuf.dll
+F:\Bank management\BANK Application\BANK Application\bin\Debug\BouncyCastle.Crypto.dll
+F:\Bank management\BANK Application\BANK Application\bin\Debug\Renci.SshNet.dll
+F:\Bank management\BANK Application\BANK Application\bin\Debug\MySql.Data.xml
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Creation.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Deposite.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Main.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Progress_Bar.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Transfer.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Withdraw.resources
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK Application.csproj.CopyComplete
+F:\Bank management\BANK Application\BANK Application\obj\Debug\BANK_Application.Preview.resources
